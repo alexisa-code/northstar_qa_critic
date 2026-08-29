@@ -1,0 +1,29 @@
+# Multi-Agent Critic System (Phase 2 TEPP)
+
+## 🔍 Project Overview
+This project implements a multi-agent system designed to evaluate business processes and generate actionable recommendations. The Critic Agent analyzes structured inputs, identifies inefficiencies, and produces insights that support decision-making.
+
+## 🎯 Problem Addressed
+Support teams often rely on manual review processes that slow down operations and create bottlenecks. This project automates evaluation to reduce review time and improve clarity.
+
+## 🧠 Approach
+- Python-based multi-agent architecture
+- Critic Agent with rule-based and prompt-driven logic
+- CSV datasets simulating real business scenarios
+- Automated structured recommendations
+
+## 🛠️ Tools & Technologies
+Python • Pandas • Git/GitHub • VS Code
+
+## 📈 Results
+- Automated business process evaluation
+- Reduced manual review time
+- Clear, structured recommendations
+
+## 👤 Individual Contribution
+I developed the Critic Agent logic, structured the data pipeline, wrote the Python scripts, and documented the project.
+
+## 📂 Evidence
+- Python scripts
+- CSV datasets
+- Output screenshots
